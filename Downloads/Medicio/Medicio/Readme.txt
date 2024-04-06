@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+IT's a sample project for Medical Portal...
+Tech stacks : HTML, CSS, JavaScript
